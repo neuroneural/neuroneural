@@ -124,16 +124,16 @@ attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "fab fa-facebook" # Fontawesome icon pack https://fontawesome.com/icons
-link = "#facebook"
+link = "https://www.facebook.com/GeorgiaStateUniversity"
 [[params.social]]
 icon = "fab fa-twitter" # Fontawesome icon pack https://fontawesome.com/icons
-link = "#twitter"
+link = "https://twitter.com/PlisSergey"
 [[params.social]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
-link = "#github"
+link = "https://github.com/neuroneural"
 [[params.social]]
 icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
-link = "#linkedin"
+link = "https://www.linkedin.com/in/sergeyplis/"
 
 ################################### English language #####################################
 [Languages.en]
