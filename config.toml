@@ -145,7 +145,7 @@ weight = 1
 ####################### Banner #######################################
 [Languages.en.banner]
 bg_image = "images/banner-shape.png"
-title = "Hello, My name is Sergey Plis <br> My Blogsite is About <br> <strong>Machine Learning & Neuroimaging</strong>"
+title = "Hello, I'm Sergey Plis <br> My Blogsite is About <br> <strong>Machine Learning & Neuroimaging</strong>"
 image = "images/banner-image.png"
 
 [Languages.fr.banner]
@@ -194,17 +194,6 @@ url = "/"
 name = "Home"
 hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Home"
-  weight = 1
-  url = "homepage/classic/"
-  name = "Home Classic"
-
-  [[Languages.en.menu.main]]
-  parent = "Home"
-  weight = 2
-  url = "homepage/creative/"
-  name = "Home Creative"
 
 [[Languages.en.menu.main]]
 weight = 3
@@ -214,33 +203,33 @@ name = "About"
 [[Languages.en.menu.main]]
 weight = 4
 url = "contact"
-name = "Contact"
+name = "Team"
 
 [[Languages.en.menu.main]]
 weight = 5
 url = "tools"
-name = "Tools"
+name = "Projects"
 
 [[Languages.en.menu.main]]
 weight = 6
 url = "#"
-name = "Pages"
+name = "Publications"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Publications"
   weight = 2
   url = "tags/tech/"
   name = "Tag"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Publications"
   weight = 4
   url = "categories/hugo/"
   name = "Category"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Blog"
   weight = 5
   url = "elements/"
   name = "Elements"
