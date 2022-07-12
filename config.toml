@@ -1,7 +1,7 @@
 ############################ Default configuration #########################
-baseURL = "https://demo.gethugothemes.com/northendlab/"
-# site title 
-title = "Northendlab | Creative Blog Template"
+baseURL = "https://github.com/neuroneural/neuroneural"
+# site title
+title = "neuroneural | Sergey Plis, Ph.D."
 # theme
 theme = "northendlab"
 # post pagination
@@ -205,17 +205,17 @@ hasChildren = true
   weight = 2
   url = "homepage/creative/"
   name = "Home Creative"
-  
+
 [[Languages.en.menu.main]]
 weight = 3
 url = "about"
 name = "About"
-  
+
 [[Languages.en.menu.main]]
 weight = 4
 url = "contact"
 name = "Contact"
-  
+
 [[Languages.en.menu.main]]
 weight = 5
 url = "tools"
@@ -226,19 +226,19 @@ weight = 6
 url = "#"
 name = "Pages"
 hasChildren = true
-  
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 2
   url = "tags/tech/"
   name = "Tag"
-  
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 4
   url = "categories/hugo/"
   name = "Category"
-  
+
   [[Languages.en.menu.main]]
   parent = "Pages"
   weight = 5
@@ -287,17 +287,17 @@ hasChildren = true
   weight = 2
   url = "homepage/creative/"
   name = "Accueil Créatif"
-  
+
 [[Languages.fr.menu.main]]
 weight = 2
 url = "about"
 name = "Quelque"
-  
+
 [[Languages.fr.menu.main]]
 weight = 3
 url = "contact"
 name = "Contacter"
-  
+
 [[Languages.fr.menu.main]]
 weight = 4
 url = "tools"
@@ -308,19 +308,19 @@ weight = 5
 url = "#"
 name = "Pages"
 hasChildren = true
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   weight = 1
   url = "tags/tech/"
   name = "Mots clés"
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   weight = 2
   url = "categories/hugo/"
   name = "Catégorie"
-  
+
   [[Languages.fr.menu.main]]
   parent = "Pages"
   weight = 3
