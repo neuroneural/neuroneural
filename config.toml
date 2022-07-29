@@ -148,6 +148,7 @@ bg_image = "images/banner-shape.png"
 title = "Hello, I'm Sergey Plis <br> My Blogsite is About <br> <strong>Machine Learning & Neuroimaging</strong>"
 image = "images/banner-image.png"
 
+
 [Languages.fr.banner]
 bg_image = "images/banner-shape.png"
 title = "Salut je suis Cameron William <br> Mon blog est sur <br> <strong>Site Web et Développement</strong>"
@@ -195,10 +196,7 @@ name = "Home"
 hasChildren = true
 
 
-[[Languages.en.menu.main]]
-weight = 3
-url = "about"
-name = "About"
+
 
 [[Languages.en.menu.main]]
 weight = 4
