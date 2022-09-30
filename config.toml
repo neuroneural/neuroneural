@@ -195,42 +195,39 @@ url = "/"
 name = "Home"
 hasChildren = true
 
-
-
-
 [[Languages.en.menu.main]]
-weight = 4
-url = "contact"
+weight = 2
+url = "tools"
 name = "Team"
 
 [[Languages.en.menu.main]]
-weight = 5
-url = "tools"
-name = "Projects"
-
-[[Languages.en.menu.main]]
-weight = 6
-url = "#"
+weight = 3
+url = "categories/publications"
 name = "Publications"
-hasChildren = true
+hasChildren = false
 
   [[Languages.en.menu.main]]
-  parent = "Publications"
+  parent = "Categories"
   weight = 2
-  url = "tags/tech/"
+  url = "tags"
   name = "Tag"
 
   [[Languages.en.menu.main]]
-  parent = "Publications"
   weight = 4
-  url = "categories/hugo/"
-  name = "Category"
+  url = "categories"
+  name = "Categories"
 
   [[Languages.en.menu.main]]
   parent = "Blog"
   weight = 5
   url = "elements/"
   name = "Elements"
+
+
+  [[Languages.en.menu.main]]
+  weight = 7
+  url = "contact"
+  name = "Contact"
 
 ############################# Footer Menu ########################
 [[Languages.en.menu.footer]]
