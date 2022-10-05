@@ -197,7 +197,7 @@ hasChildren = true
 
 [[Languages.en.menu.main]]
 weight = 2
-url = "tools"
+url = "team"
 name = "Team"
 
 [[Languages.en.menu.main]]
