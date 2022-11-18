@@ -22,7 +22,7 @@
             </div>
             <div class="border-top border-bottom py-3 my-4 content">
               {{ .Params.description | markdownify }}
-            </div>          
+            </div>
             {{ range .Params.tools_info }}
             <div class="mb-3 d-flex align-items-baseline">
               <h6 style="flex: 0 0 75px;">{{.title | markdownify}}</h6>
@@ -30,8 +30,8 @@
             </div>
             {{ end }}
             <div class="d-flex align-items-baseline">
-              <h6 style="flex: 0 0 75px;">{{ i18n `added` }}:</h6>
-              <div class="content">{{.PublishDate.Format "02 Jan, 2006"}}</div>
+              <!-- <h6 style="flex: 0 0 75px;">{{ i18n `added` }}:</h6>
+              <div class="content">{{.PublishDate.Format "02 Jan, 2006"}}</div> -->
             </div>
           </div>
         </div>
