@@ -5,7 +5,7 @@ draft: false
 description: "I’m enthusiastic about deep learning and how its applications can help people, especially in neuroimaging and other medical contexts. My current area of focus is on diagnostics with fMRI data."
 
 weight: 3
-categories: ["IDK"]
+categories: ["Bachelor"]
 
 thumbnail: "images/team/Capella.png"
 tools_website_link: "https://www.linkedin.com/in/capella-edwards-833876172/"

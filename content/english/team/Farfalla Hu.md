@@ -11,7 +11,7 @@ thumbnail: "images/team/Farfalla.png"
 tools_website_link: "https://farfallahu.com/"
 
 tools_info:
-- title: "email :"
+- title: "Eail :"
   content: "FarfallaHu@gmail.com"
 
 

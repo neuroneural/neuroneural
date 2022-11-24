@@ -7,7 +7,7 @@ description: "I am a Research assistant at TreNDs. I work on building novel rese
 I was also Teaching assistant and co-tutor for Intro to Deep Learning 6851 (Spring Semester 2022)"
 
 weight: 2
-categories: ["IDK"]
+categories: ["Master"]
 
 thumbnail: "images/team/Mrinal.png"
 tools_website_link: "https://www.linkedin.com/in/mmathur4/"
