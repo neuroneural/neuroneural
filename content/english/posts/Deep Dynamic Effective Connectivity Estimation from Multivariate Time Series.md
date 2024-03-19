@@ -5,7 +5,7 @@ author: "Sergey Plis"
 date: 2022-02-04T05:00:00Z
 description: "This is meta description"
 categories: ["Publications"]
-tags: ["Paper", "Publications"]
+tags: ["Paper", "Publications", "2022"]
 featured: true
 
 ---

@@ -11,7 +11,7 @@ EEG data processing: spectral analysis, functional connectivity analysis, evoked
 Currently I am working on “Causal modeling of brain dynamical data with the goal of eventually arriving at better computational models of how the brain works.”"
 
 weight: 3
-categories: ["Ph.D"]
+categories: ["Postdoc"]
 
 thumbnail: "images/team/Kseniya.png"
 tools_website_link: "https://scholar.google.com/citations?user=kmM5fG0AAAAJ&hl=en"

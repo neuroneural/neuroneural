@@ -60,9 +60,22 @@ compatibility:
  
 ---
 
-## I’m Mike George Asslemia <br> <strong>An User interface Designer</strong>
+## Sergey Plis <br> <strong>Assiociate Professor of CS at GSU</strong>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. consectetur adipisicing elit olores quibusdam sed. 
-  
-  
-Lorem ipsum dolor sit amet, consectetur adipisic dfbdfing elit. Incidunt, rem eaafa que facilis. ratione, magnam a minima incidunt! Suscipit facilis, ut maxime libero necessit atibder gesus, rerum aut voluptates aliquam maiores iusto qui
+I received my Ph.D.  degree in Computer Science in 2007 from The
+University of New Mexico, Albuquerque, NM, USA.  Currently, I am an
+associate professor of CS at Georgia State University, and the
+Director of Machine Learning core at the TReNDS institute.  My
+research interests within the fields of machine learning, AI, and data
+science lie in developing novel and applying existing techniques and
+approaches to analyzing large scale datasets.  One of my key goals is
+to take advantage of the strengths of multiple data modalities and
+infer structure and patterns that are hard to obtain non-invasively
+and/or that are unavailable for direct observation. Ongoing work is
+focused on inferring multimodal probabilistic and causal descriptions
+based on fusion of fast and slow imaging modalities. This includes
+feature estimation via deep learning-based pattern recognition and
+learning causal graphical models.  Besides academia, I've led AI
+research teams developing deep tech AI products including NLP and
+speech processing solutions that are currently shipped to customers.
+My research is supported by generous grants from NSF and NIH.

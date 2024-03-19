@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://github.com/neuroneural/neuroneural"
+baseURL = "https://neuroneural.github.io/"
 # site title
 title = "neuroneural | Sergey Plis, Ph.D."
 # theme
@@ -12,6 +12,8 @@ summaryLength = "10"
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+
+relativeURLs = true
 
 # disable language
 disableLanguages = ["Fr"] # desable language from here
@@ -35,7 +37,7 @@ mainSections = ["posts"]
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
 
 # search *** true or false (if Search is disable Menu will align in Right) ***
 search = true
@@ -145,23 +147,14 @@ weight = 1
 ####################### Banner #######################################
 [Languages.en.banner]
 bg_image = "images/banner-shape.png"
-title = "Hello, I'm Sergey Plis <br> My Blogsite is About <br> <strong>Machine Learning & Neuroimaging</strong>"
-image = "images/banner-image.png"
-
-
-[Languages.fr.banner]
-bg_image = "images/banner-shape.png"
-title = "Salut je suis Cameron William <br> Mon blog est sur <br> <strong>Site Web et Développement</strong>"
+title = "Sergey Plis <br>  <br> <strong>Machine Learning & Neuroimaging</strong>"
 image = "images/banner-image.png"
 
 ######################## About Me Widget ###############################
 [Languages.en.about_me]
-title = "Hi, I'm George A."
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet Libero ullamcorper."
+title = "Hi, I'm Sergey Plis"
+bio = "I received my Ph.D.  degree in Computer Science in 2007 from The University of New Mexico, Albuquerque, NM, USA.  Currently, I am an associate professor of CS at Georgia State University, and the Director of Machine Learning core at the TReNDS institute.  My research interests within the fields of machine learning, AI, and data science lie in developing novel and applying existing techniques and approaches to analyzing large scale datasets.  One of my key goals is to take advantage of the strengths of multiple data modalities and infer structure and patterns that are hard to obtain non-invasively and/or that are unavailable for direct observation. Ongoing work is focused on inferring multimodal probabilistic and causal descriptions based on fusion of fast and slow imaging modalities. This includes feature estimation via deep learning-based pattern recognition and learning causal graphical models.  Besides academia, I've led AI research teams developing deep tech AI products including NLP and speech processing solutions that are currently shipped to customers.  My research is supported by generous grants from NSF and NIH."
 
-[Languages.fr.about_me]
-title = "Salut je suis George A."
-bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet Libero ullamcorper."
 
 [[params.social_profile]]
 icon = "fab fa-facebook" # Fontawesome icon pack https://fontawesome.com/icons
@@ -205,6 +198,11 @@ weight = 3
 url = "categories/publications"
 name = "Publications"
 hasChildren = false
+
+[[Languages.en.menu.main]]
+weight = 4
+url = "categories/classes"
+name = "Classes"
 
   [[Languages.en.menu.main]]
   parent = "Categories"
